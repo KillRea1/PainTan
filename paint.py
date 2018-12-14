@@ -6,7 +6,7 @@ from MainWindow import Ui_MainWindow
 
 import os
 import types
-
+import random
 
 BRUSH_MULT = 3
 SPRAY_PAINT_MULT = 5
