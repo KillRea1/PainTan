@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Сделано  KillReal& tansylu
+# Сделано  KillReal 
 #
 # PyQt5
 # СОЗДАНО НА Qt desiner
